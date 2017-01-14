@@ -1,0 +1,26 @@
+{
+  "name": "kumobile",
+  "version": "0.1.6",
+  "description": "KUMobile is a cross-platform mobile application project for Kettering\r University. The project is focused on information exchange between Kettering \r and the students. The application targets the following platforms: \r Android, iOS, and Windows.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "phonegap": "^6.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrickbrazil/kumobile.git"
+  },
+  "author": "Garrick Brazil",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/garrickbrazil/kumobile/issues"
+  },
+  "homepage": "https://github.com/garrickbrazil/kumobile#readme"
+}

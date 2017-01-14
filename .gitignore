@@ -87,3 +87,6 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Installed node modules shouldn't be committed to repo
+node_modules
